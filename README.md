@@ -13,7 +13,7 @@ conjunto de datos de anuncios de venta de coches en Estados Unidos (vehicles_us.
 
 ## Aplicación desplegada
 
-https://TU-APP-NAME.onrender.com/
+https://vehicles-project-qxgd.onrender.com/
 
 ## Cómo ejecutar localmente
 
